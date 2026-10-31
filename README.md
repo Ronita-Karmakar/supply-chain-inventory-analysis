@@ -2,9 +2,8 @@
 
 End-to-end analysis of 15,000 supply chain records using **MySQL** and **Power BI** to understand stock levels, supplier performance, delivery timelines and product profitability, and to support inventory and procurement decisions.
 
-![Dashboard](images/dashboard.png)
-
 ---
+<img width="1065" height="662" alt="image" src="https://github.com/user-attachments/assets/29d345e2-e37e-45e0-b802-60c5b9a16c65" />
 
 ## Business Questions
 1. Which products are frequently out of stock?
